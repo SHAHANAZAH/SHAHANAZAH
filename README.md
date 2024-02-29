@@ -10,7 +10,9 @@
 
 ### Skills
  » Web development- HTML,CSS,Javascript
+ 
  » UI designing-Canva,Figma
+ 
  » C,Java,Python
 
 ### Interests
