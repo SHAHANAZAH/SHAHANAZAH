@@ -40,7 +40,9 @@
 
 3. UI Designs
    Designed a set of captivating screens featuring profile customization, calendar management, and seamless event selection using the versatile Figma design tool.
+   
    •https://rb.gy/iuykgf
+   
    •https://rb.gy/n16xu3
    
    
