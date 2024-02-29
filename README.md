@@ -9,13 +9,42 @@
 📧Feel free to contact shahanazah01@gmail.com
 
 ### Skills
- » Web development- HTML,CSS,Javascript
+ • Web development- HTML,CSS,Javascript
  
- » UI designing-Canva,Figma
+ • UI designing-Canva,Figma
  
- » C,Java,Python
+ • C,Java,Python
 
 ### Interests
+
+○ Project Management
+
+○ Event Coordination
+
+○ Event Planning
+
+○ Effective Communication
+
+○ Problem Solving
+
+### Projects
+
+1. Campus Connect-Campus Activity Management Website
+   Mini Project completed using HTML,CSS,React,MongoDB
+   •To do list
+   •Event Calender
+   •Notes
+
+2. Detection of Axial Spondyloarthritis using Machine Learning & Deep Learning
+   •X-ray Images
+
+3. UI Designs
+   Designed a set of captivating screens featuring profile customization, calendar management, and seamless event selection using the versatile Figma design tool.
+   •https://rb.gy/iuykgf
+   •https://rb.gy/n16xu3
+   
+   
+
 
 
 
